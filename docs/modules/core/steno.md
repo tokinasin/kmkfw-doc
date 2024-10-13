@@ -1,3 +1,8 @@
+---
+title: Steno
+parent: Modules
+---
+
 # Steno
 
 Communicate with stenography software such as [Plover](https://www.openstenoproject.org/plover/) over the Gemini PR protocol.
