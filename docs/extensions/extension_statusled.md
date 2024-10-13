@@ -1,3 +1,8 @@
+---
+title: Status LED
+parent: Extensions
+---
+
 # Status LEDs
 
 Indicate which layer you are on with an array of single leds.
