@@ -1,6 +1,6 @@
 title: KMK Docs
 description: An unofficial webpage for KMK-fw docs.
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
 
 url: https://kmkfw-doc.misc.place
 domain: kmkfw-doc.misc.place
